@@ -30,6 +30,9 @@
 
 	今天学习；fetch 远程拉取文件。
 
+	切换分支：git checkout [分支名称]
+	创建分支：git branch [分支名称]
+	创建远程地址别名：git remote add [地址别名][地址]
 
 
 
